@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_TIME_ZONE": "Eastern Standard Time",
+    "AzureWebJobsStorage": "YOUR_AZURE_STORAGE_CONNECTION_STRING",
+    "BlobStorageKey": "YOUR_AZURE_STORAGE_ACCESS_KEY",
+    "EventsContainerName": "pbievents",
+    "PowerBiDataContainerName": "pbidata",
+    "TenantId": "11111111-1111-1111-1111-111111111111",
+    "AppId": "11111111-1111-1111-1111-111111111111",
+    "AppSecret": "YOUR_APP_SECRET",
+    "SalesReportsWorkspaceId": "11111111-1111-1111-1111-111111111111",
+    "EmbeddedReportId": "11111111-1111-1111-1111-111111111111",
+    "EmbeddedReportWorkspaceId": "11111111-1111-1111-1111-111111111111"
+  },
+  "Host": { "CORS": "*" }
+}

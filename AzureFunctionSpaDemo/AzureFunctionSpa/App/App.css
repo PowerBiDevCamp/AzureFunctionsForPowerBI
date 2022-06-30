@@ -1,0 +1,28 @@
+body {
+  background-color: #DDDDDD;
+}
+
+.top-div {
+}
+
+.top-nav {
+}
+
+.content-box {
+  background-color: white;
+  border: 1px solid black;
+  min-height: 640px;
+}
+
+.information-message {
+  font-style: italic;
+  font-size: 0.9em;
+  margin-left: 12px;
+  margin-top: 16px;
+  color: darkred;
+}
+
+#embed-container {
+  height: 520px;
+  margin-top: 24px;
+}
